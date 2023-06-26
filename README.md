@@ -14,3 +14,16 @@ You can install PyVollib using pip. Open your terminal or command prompt and run
 pip install pyvollib
 
 For more information about PyVollib, including detailed installation instructions and usage examples, please refer to the [PyVollib GitHub repository](https://github.com/vollib/py_vollib).
+
+## Python Version
+
+This project was developed using Python 3.4.10. To check your Python version, run the following command in your terminal:
+
+```shell
+python --version
+
+## Files and Folders
+The project consists of the following files and folders: 
+
+## Example Plots
+
