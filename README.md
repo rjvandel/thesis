@@ -21,9 +21,12 @@ This project was developed using Python 3.4.10. To check your Python version, ru
 
 ```shell
 python --version
+```
 
 ## Files and Folders
 The project consists of the following files and folders: 
 
 ## Example Plots
+
+
 
