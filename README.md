@@ -1,12 +1,12 @@
 # Short term option pricing with jumps
 
-This code supports the results in my thesis. For different datasets we can plot the BSQH and MJD implied volatility and prices. 
+This code supports the results in my thesis. For different datasets we can plot the BSQH and MJD implied volatility (IV) and prices. 
 
 ## Dependencies
 
 - PyVollib
 
-This project requires the PyVollib library to be installed. PyVollib is a Python library for option pricing, implied volatility (IV) calculations, and more.
+This project requires the PyVollib library to be installed. PyVollib is a Python library for option pricing, implied volatility calculations, and more.
 
 ### Installation
 
